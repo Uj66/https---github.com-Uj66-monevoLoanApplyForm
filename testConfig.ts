@@ -1,7 +1,8 @@
 export const testConfig = {
-    testurl: 'https://qa-5.monevo.com/',
+    testurl: `https://qa-5.monevo.com/`,
     firstName: `Umair`,
     lastName: `Jafar`,
+    amount: '1000',
     emailAddress: `test@test.com`,
     dateOfBirth: `24/12/1991`,
     correctPhoneNumber: `07897641544`,
